@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @22r01a0425
+- 👋 Hi, I’m Krithika
 - 👀 I’m interested in exploring many things
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
